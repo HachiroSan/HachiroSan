@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/HachiroSan?tab=repositories)
 
-- 📫 How to reach me **mfarhad.khahar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
