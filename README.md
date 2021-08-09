@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhd Farhad</h1>
-<h3 align="center">A passionate data analyst, full-stack developer from Malaysia</h3>
+<h3 align="center">A passionate data analyst, IoT and full-stack developer from Malaysia</h3>
 
 - 🌱 I’m currently learning **data science, AI and ML**
 
