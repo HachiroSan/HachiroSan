@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data science, AI and ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HachiroSan](https://github.com/HachiroSan)
+- 👨‍💻 All of my projects are available at [https://github.com/HachiroSan?tab=repositories](repositories)
 
 - 📫 How to reach me **mfarhad.khahar@gmail.com**
 
