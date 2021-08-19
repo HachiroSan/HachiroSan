@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhd Farhad</h1>
 <h3 align="center">A passionate data analyst, IoT and full-stack developer from Malaysia</h3>
 
-- 🌱 I’m currently studying **data science, AI and ML**
+- 🌱 I’m currently studying **Data Science, AI and ML**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/HachiroSan?tab=repositories)
 
