@@ -1,15 +1,16 @@
 <div align="center">
   <a href="#">
     <img width="20%" height="auto" src="https://i.pinimg.com/originals/34/26/8f/34268fed3bf55d87dcce2abf51ac2775.jpg"/>
-  	<h2><b>Hi, I'm Hachiro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><h2>
+  	<h1><b>Hi, I'm Hachiro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><h1>
   </a>
-</div>
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=snaptrap013&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </p>
+</div>
+
+
 
 
 
