@@ -29,10 +29,10 @@
 
 <br>
 
-🧑‍💻Self-taught Full-Stack developer<br>
-📊 Data analyst student<br>
-🛠 Engineering Enthusiast<br>
-🎧 Audiophile and Guitarist
+- 🧑‍💻Self-taught Full-Stack developer<br>
+- 📊 Data analyst student<br>
+- 🛠 Engineering Enthusiast<br>
+- 🎧 Audiophile and Guitarist
 
 <br><br>
 
