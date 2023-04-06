@@ -30,8 +30,8 @@
 <br>
 
 <p>
-🧑‍💻 Self-taught Full-Stack developer<br>
-📊 Data Analyst Student<br>
+🧑‍💻 Self-taught Full-Stack developer
+📊 Data Analyst Student
 🛠 Engineering Foundation<br>
 🎨 Graphic Designer
 🎧 Audiophile and Guitarist
@@ -64,6 +64,10 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+- **Interest**:
+
+    ![OSI](https://img.shields.io/badge/Open%20Source%20Initiative-OSI-green?style=for-the-badge&logo=open-source-initiative)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
