@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <a href="#">
     <img width="20%" height="auto" src="https://i.pinimg.com/originals/34/26/8f/34268fed3bf55d87dcce2abf51ac2775.jpg"/>
   </a>
