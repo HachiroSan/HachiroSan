@@ -2,7 +2,6 @@
   <img width="20%" src="https://i.pinimg.com/originals/34/26/8f/34268fed3bf55d87dcce2abf51ac2775.jpg" />
 </p>
 
-
 <h1 align="center"><b>Hi , I'm Hachiro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -30,27 +29,10 @@
 
 <br>
 
-<p align="left">
-  <span>🧑‍💻</span> Self-taught Full-Stack developer&nbsp;&nbsp;&nbsp;<br>
-  <span>📊</span> Data analyst student&nbsp;&nbsp;&nbsp;<br>
-  <span>🛠️</span> Engineering Enthusiast&nbsp;&nbsp;&nbsp;<br>
-  <span>🎧</span> Audiophile<br>
-</p>
-<style>
-p span {
-  display: inline-block;
-  animation: 1s ease-in-out infinite alternate emoji;
-}
-@keyframes emoji {
-  from {
-    transform: translateY(0);
-  }
-  to {
-    transform: translatey(-10px);
-  }
-}
-</style>
-
+🧑‍💻Self-taught Full-Stack developer<br>
+📊 Data analyst student<br>
+🛠 Engineering Enthusiast<br>
+🎧 Audiophile and Guitarist
 
 <br><br>
 
