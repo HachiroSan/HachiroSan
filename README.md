@@ -38,13 +38,13 @@
 
 <br>
 
-<p align="center">
-  🧑‍💻 Self-taught Full-Stack Developer <br>
-  📊 Data Analyst Student <br>
-  🛠 Engineering Foundation<br>
-  🎨 Graphic Designer<br>
-  🎧 Audiophile and Guitarist<br>
-  💻 PC MasterRace<br>
+<p>
+  	🧑‍💻 Self-taught Full-Stack Developer <br>
+  	📊 Data Analyst Student <br>
+  	🛠 Engineering Foundation<br>
+  	🎨 Graphic Designer<br>
+  	🎧 Audiophile and Guitarist<br>
+  	💻 PC MasterRace<br>
 </p>
 </center>
 
