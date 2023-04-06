@@ -30,10 +30,12 @@
 <br>
 
 <p>
-🧑‍💻Self-taught Full-Stack developer<br>
-📊 Data analyst student<br>
-🛠 Engineering Enthusiast<br>
+🧑‍💻 Self-taught Full-Stack developer<br>
+📊 Data Analyst Student<br>
+🛠 Engineering Foundation<br>
+🎨 Graphic Designer
 🎧 Audiophile and Guitarist
+💻 PC MasterRace
 </p>
 <br><br>
 
