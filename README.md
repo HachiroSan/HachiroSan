@@ -29,11 +29,12 @@
 
 <br>
 
-- 🧑‍💻Self-taught Full-Stack developer<br>
-- 📊 Data analyst student<br>
-- 🛠 Engineering Enthusiast<br>
-- 🎧 Audiophile and Guitarist
-
+<p>
+🧑‍💻Self-taught Full-Stack developer<br>
+📊 Data analyst student<br>
+🛠 Engineering Enthusiast<br>
+🎧 Audiophile and Guitarist
+</p>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
