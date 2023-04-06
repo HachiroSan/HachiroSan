@@ -38,7 +38,7 @@
 
 <br>
 
-<p>
+<p align="center">
   🧑‍💻 Self-taught Full-Stack Developer <br>
   📊 Data Analyst Student <br>
   🛠 Engineering Foundation<br>
