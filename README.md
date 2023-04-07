@@ -92,14 +92,6 @@
 </li>
 
 <br>
-
-<li>
-<a href="https://twitter.com/muhmd_fadd" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  muhmmd_fad-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
 <li>
 <a href="mailto:mfarhad.khahar@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Muhd Farhad-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
