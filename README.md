@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>Hi, I'm Hachiro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
+<h1 align="center"><b>Hi, I'm Muhd Farhad aka Hachiro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
