@@ -23,7 +23,7 @@
 <br><br>
   <b>- 🌱 I’m currently studying Data Science, AI and ML</b>
   <br>
-  <b>- 👨‍💻 All of my projects are available <a href="https://github.com/HachiroSan?tab=repositories">here</a></b>
+  <b>- 👨‍💻 All of my projects are available <a href="https://github.com/HachiRogueab=repositories">here</a></b>
 </p>
 <br>
 <p align="center">
