@@ -102,7 +102,7 @@
 <br>
 <li>
 <a href="mailto:mfarhad.khahar@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  snaptrap.org-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Muhd+Farhad-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
