@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="https://github.com/farhad-khaharruddin/">
-    <img src="https://github-readme-stats.vercel.app/api?username=HachiRogue&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HachiRogue&show_icons=true&locale=en&layout=compact&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="HachiRogue"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=HachiroSeiryuu&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HachiroSeiryuu&show_icons=true&locale=en&layout=compact&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="HachiroSeiryuu"/>
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 <br><br>
   <b>- 🌱 I’m currently studying Data Science, AI and ML</b>
   <br>
-  <b>- 👨‍💻 All of my projects are available <a href="https://github.com/HachiRogueab=repositories">here</a></b>
+  <b>- 👨‍💻 All of my projects are available <a href="https://github.com/HachiroSeiryuuab=repositories">here</a></b>
 </p>
 <br>
 <p align="center">
