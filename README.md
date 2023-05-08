@@ -39,7 +39,7 @@
 <br>
 
 <p>
-  	🧑‍💻 Self-taught Full-Stack Developer <br>
+  	🧑‍💻 Self-taught Developer <br>
   	📊 Data Analyst Student <br>
   	🛠 Engineering Foundation<br>
   	🎨 Graphic Designer<br>
