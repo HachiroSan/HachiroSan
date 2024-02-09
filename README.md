@@ -18,14 +18,6 @@
 </p>
 
 <p align="center">
-<br><br>
-  <b>- 🌱 I’m currently studying Data Science, AI and ML</b>
-  <br> 
-  <b>- 🫶 Enjoy software development and reverse engineering as a hobby.
-  <br> 
-  <b>- 👨‍💻 All of my projects are available <a href="https://github.com/HachiroSan?tab=repositories">here</a></b>
-</p>
-<br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </p>
