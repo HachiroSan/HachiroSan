@@ -1,16 +1,19 @@
-
-
 <h1 align="center"><b>Hi, I'm Farhad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1> 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=snaptrap013&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="spotify-github-profile">
-  </a>
-</p>
+<p align="center"><i>Hi, I'm Farhad, also known as Hachiro. I am a developer and data analyst graduate with keen interest in full stack development, DL, reverse engineering and game hacking. Currently enhancing my skills in Python, javascript, C and C++. </i></p>
+<br>
+
 
 <p align="center">
   <a href="https://github.com/HachiroSan/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HachiroSan&show_icons=true&locale=en&layout=compact&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="HachiroSan"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=snaptrap013&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </p>
 
