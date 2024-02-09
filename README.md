@@ -23,9 +23,10 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> About me
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"><br>
+  <b>About me</b>
 </p>
-<br>
+
 
 <p align="center">
   	🧑‍💻 Self-taught Developer <br>
