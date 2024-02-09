@@ -24,13 +24,12 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> About me
 
-<picture> 
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250">
-</picture>
-
+<p align="center">
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> About me
+</p>
 <br>
 
-<p>
+<p align="center">
   	🧑‍💻 Self-taught Developer <br>
   	📊 Data Analyst Student <br>
   	🛠 Engineering Foundation<br>
