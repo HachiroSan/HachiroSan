@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Farhad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1> 
 
-<p align="center"><i>Hi, I'm Farhad, also known as Hachiro. I am a developer and data analyst graduate with keen interest in full stack development, DL, reverse engineering and web development. Currently enhancing my skills in Python, javascript, C and C++. </i></p>
+<p align="center"><i>Hi, I'm Farhad, also known as Hachiro. I am a developer and data analyst graduate with keen interest in full stack development, DL, reverse engineering and web development. Currently enhancing my skills in javascript.</i></p>
 <br>
 
 
