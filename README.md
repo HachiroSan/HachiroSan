@@ -5,7 +5,7 @@
 
 <h1 align="center"><b>Hi, I'm Farhad </b></h1> 
 
-<p align="center"><i>I'm Farhad, also known as Hachiro. I am a developer and data analyst graduate with keen interest in full stack development, DL, reverse engineering and web development. Plus, I'm a metal head 🤘</i></p>
+<p align="center"><i>I'm Farhad, also nicknamed Hachiro. I am a developer and data analyst graduate with keen interest in full stack development, DL, reverse engineering and web development. Plus, I'm a metal head 🤘</i></p>
 <br>
 
 
