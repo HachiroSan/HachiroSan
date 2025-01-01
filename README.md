@@ -1,16 +1,16 @@
-<div align="center">
 ```ascii
-                    ████████╗██╗  ██╗███████╗    ███████╗████████╗ █████╗  ██████╗██╗  ██╗
-                    ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-                       ██║   ███████║█████╗      ███████╗   ██║   ███████║██║     █████╔╝ 
-                       ██║   ██╔══██║██╔══╝      ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
-                       ██║   ██║  ██║███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
-                       ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ████████╗██╗  ██╗███████╗    ███████╗████████╗ █████╗  ██████╗██╗  ██╗
+  ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+     ██║   ███████║█████╗      ███████╗   ██║   ███████║██║     █████╔╝ 
+     ██║   ██╔══██║██╔══╝      ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
+     ██║   ██║  ██║███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
+     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Turning+coffee+into+code;Professional+AI+Prompt+Engineer;Ctrl%2BC+%2B+Ctrl%2BV+from+ChatGPT;Making+AI+do+my+job;Debug+champion+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Turning+coffee+into+code;Debug+champion+%F0%9F%8F%86;Pro+Stack+Overflow+researcher;Ctrl%2BC+%2B+Ctrl%2BV+Engineer;Making+computers+do+things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -39,7 +39,6 @@ interface Developer {
   };
   interests: string[];
   debuggingTechnique: string;
-  aiUsage: string;
 }
 
 const farhad: Developer = {
@@ -53,7 +52,6 @@ const farhad: Developer = {
   },
   interests: ["Deep Learning", "Web3", "System Design"],
   debuggingTechnique: "console.log('why no work? 😭')",
-  aiUsage: "Copy from ChatGPT, edit 2 lines, claim as own code 🤖",
 };
 ```
 
@@ -94,22 +92,20 @@ try {
   if (!coffee.ok) throw new Error('Need more coffee ☕');
   
   await Promise.all([
-    askChatGPT('write this feature for me'),
-    copyPasteFromStackOverflow(),
-    pretendIWroteItMyself(),
-    waitForStarstruckBadge()
+    solveProblems(),
+    createNewProblems(),
+    ignoreOldProblems()
   ]);
   
 } catch (error) {
-  console.log('Error: ChatGPT is at capacity, back to Stack Overflow');
+  console.log('Error: It\'s probably DNS');
 }
 ```
 
-- 🚀 Building stuff that hopefully works (ChatGPT does the heavy lifting)
-- 🎮 Trying to make computers do what I want (by asking AI nicely)
-- 🌱 Learning from my mistakes (and ChatGPT's hallucinations)
+- 🚀 Building stuff that hopefully works
+- 🎮 Trying to make computers do what I want
+- 🌱 Learning from my mistakes (there are many)
 - 💡 Down to collaborate if you have snacks
-- ⭐ Desperately need that Starstruck badge
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
