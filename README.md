@@ -10,7 +10,7 @@
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Turning+coffee+into+code;Debug+champion+%F0%9F%8F%86;Pro+Stack+Overflow+researcher;Ctrl%2BC+%2B+Ctrl%2BV+Engineer;Making+computers+do+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=AI+will+probably+take+my+job;Professional+Prompt+Engineer;Living+in+ChatGPT's+shadow;My+code+%3D+AI+%2B+caffeine;Surviving+until+AGI+takeover" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -36,22 +36,28 @@ interface Developer {
     frontend: string[];
     backend: string[];
     database: string[];
+    ai: string[];
   };
   interests: string[];
   debuggingTechnique: string;
+  aiUsage: string;
+  jobSecurity: number;
 }
 
 const farhad: Developer = {
   name: "Farhad Khaharruddin",
-  title: "Full Stack Developer & Data Analyst",
+  title: "Professional AI Output Editor",
   location: "Malaysia 🇲🇾",
   stack: {
     frontend: ["React", "Next.js", "TypeScript"],
     backend: ["Node.js", "Python", "Express"],
     database: ["MySQL", "MongoDB", "PostgreSQL"],
+    ai: ["ChatGPT", "Copilot", "Claude", "Stack Overflow"]
   },
-  interests: ["Deep Learning", "Web3", "System Design"],
-  debuggingTechnique: "console.log('why no work? 😭')",
+  interests: ["Keeping my job", "AI Overlord Appeasement", "System Design"],
+  debuggingTechnique: "Ask ChatGPT why my ChatGPT generated code doesn't work",
+  aiUsage: "Copy from ChatGPT, edit 2 lines, claim as own code 🤖",
+  jobSecurity: Date.now() > new Date('2024').getTime() ? 0 : 50,
 };
 ```
 
@@ -89,23 +95,37 @@ const farhad: Developer = {
 // My daily routine
 try {
   const coffee = await fetch('coffee-machine');
+  const aiResponse = await askChatGPT('please do my job');
+  
   if (!coffee.ok) throw new Error('Need more coffee ☕');
+  if (aiResponse.includes('I apologize')) throw new Error('AI being passive aggressive again');
   
   await Promise.all([
-    solveProblems(),
-    createNewProblems(),
-    ignoreOldProblems()
+    askChatGPT('write this feature for me'),
+    askBard('verify ChatGPT\'s answer'),
+    askClaude('verify Bard\'s verification'),
+    askCopilot('just autocomplete everything'),
+    pretendIWroteItMyself(),
+    waitForStarstruckBadge(),
+    updateLinkedIn('10x AI Engineer')
   ]);
   
 } catch (error) {
-  console.log('Error: It\'s probably DNS');
+  if (error.code === 'AI_TAKEOVER') {
+    console.log('Time to learn woodworking');
+  } else {
+    console.log('Error: ChatGPT is at capacity, back to actual coding 😭');
+  }
 }
 ```
 
-- 🚀 Building stuff that hopefully works
-- 🎮 Trying to make computers do what I want
-- 🌱 Learning from my mistakes (there are many)
-- 💡 Down to collaborate if you have snacks
+- 🚀 Building stuff that hopefully works (ChatGPT does the heavy lifting)
+- 🎮 Trying to make computers do what I want (by asking AI nicely)
+- 🌱 Learning from my mistakes (and ChatGPT's hallucinations)
+- 🤖 Preparing for AI overlords by being extra nice to ChatGPT
+- 💡 Down to collaborate if you have snacks (and GPT-4 access)
+- ⭐ Desperately need that Starstruck badge
+- 📝 TODO: Figure out job security after GPT-5
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -115,7 +135,8 @@ try {
   <h2>📫 Let's Debug Together</h2>
   
   ```bash
-  $ git commit -m "I have no idea what I'm doing but it works"
+  $ git commit -m "AI generated this code, I just watched"
+  $ git push origin ai-wrote-this
   ```
 </div>
 
