@@ -99,7 +99,7 @@ try {
 }
 ```
 
-- 🤺 Upskilling myself trying to to beat the new intern named Devin
+- 🤺 Upskilling myself, trying to beat the new intern named Devin
 - 🎮 Trying to make computers do what I want
 - 🌱 Learning from my mistakes (there are many)
 - 💡 Down to collaborate if you have snacks
