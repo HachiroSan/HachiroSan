@@ -41,8 +41,8 @@ interface Developer {
   debuggingTechnique: string;
 }
 
-const farhad: Developer = {
-  name: "Farhad Khaharruddin",
+const fad: Developer = {
+  name: "Fad",
   title: "Full Stack Developer & Data Analyst",
   location: "Malaysia 🇲🇾",
   stack: {
@@ -70,12 +70,8 @@ const farhad: Developer = {
 <details>
 <summary align="center">📊 Proof That I Code Sometimes</summary>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HachiroSan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophy Stats"/>
-  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HachiroSan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HachiroSan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HachiroSan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
   <br>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HachiroSan&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
@@ -103,7 +99,7 @@ try {
 }
 ```
 
-- 🚀 Building stuff that hopefully works (with a little help from AI)
+- 🤺 Upskilling myself trying to to beat the new intern named Devin
 - 🎮 Trying to make computers do what I want
 - 🌱 Learning from my mistakes (there are many)
 - 💡 Down to collaborate if you have snacks
