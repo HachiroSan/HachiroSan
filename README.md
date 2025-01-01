@@ -1,14 +1,12 @@
 <div align="center">
-
-```
-    ████████╗██╗  ██╗███████╗    ███████╗████████╗ █████╗  ██████╗██╗  ██╗
-    ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-       ██║   ███████║█████╗      ███████╗   ██║   ███████║██║     █████╔╝ 
-       ██║   ██╔══██║██╔══╝      ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
-       ██║   ██║  ██║███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
-       ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-```
-
+<pre>
+████████╗██╗  ██╗███████╗    ███████╗████████╗ █████╗  ██████╗██╗  ██╗
+╚══██╔══╝██║  ██║██╔════╝    ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+   ██║   ███████║█████╗      ███████╗   ██║   ███████║██║     █████╔╝ 
+   ██║   ██╔══██║██╔══╝      ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
+   ██║   ██║  ██║███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+</pre>
 </div>
 
 <div align="center">
@@ -77,7 +75,7 @@ const farhad: Developer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HachiroSan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HachiroSan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   <br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=HachiroSan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=HachiroSan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
   <br>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HachiroSan&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
@@ -105,7 +103,7 @@ try {
 }
 ```
 
-- 🤺 Upskilling myself to beat a new intern named Devin
+- 🚀 Building stuff that hopefully works (with a little help from AI)
 - 🎮 Trying to make computers do what I want
 - 🌱 Learning from my mistakes (there are many)
 - 💡 Down to collaborate if you have snacks
