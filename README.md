@@ -105,7 +105,7 @@ try {
 }
 ```
 
-- 🚀 Building stuff that hopefully works (with a little help from AI)
+- 🤺 Upskilling myself to beat a new intern named Devin
 - 🎮 Trying to make computers do what I want
 - 🌱 Learning from my mistakes (there are many)
 - 💡 Down to collaborate if you have snacks
