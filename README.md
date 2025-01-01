@@ -103,7 +103,6 @@ try {
 - 🎮 Trying to make computers do what I want
 - 🌱 Learning from my mistakes (there are many)
 - 💡 Down to collaborate if you have snacks
-- ⭐ Desperately need that Starstruck badge
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
