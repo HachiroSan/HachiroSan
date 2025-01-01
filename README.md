@@ -43,7 +43,7 @@ interface Developer {
 
 const fad: Developer = {
   name: "Fad",
-  title: "Full Stack Developer & Data Analyst",
+  title: "Full Stack Developer & Data Engineer",
   location: "Malaysia 🇲🇾",
   stack: {
     frontend: ["React", "Next.js", "TypeScript"],
