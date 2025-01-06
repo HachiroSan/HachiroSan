@@ -28,19 +28,6 @@
 <div align="center">
   
 ```typescript
-interface Developer {
-  name: string;
-  title: string;
-  location: string;
-  stack: {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-  };
-  interests: string[];
-  debuggingTechnique: string;
-}
-
 const fad: Developer = {
   name: "Fad",
   title: "Full Stack Developer & Data Engineer",
@@ -51,7 +38,7 @@ const fad: Developer = {
     database: ["MySQL", "MongoDB", "PostgreSQL"],
   },
   interests: ["Deep Learning", "Web3", "System Design"],
-  debuggingTechnique: "console.log('why no work? 😭') + ChatGPT",
+  debuggingTechnique: 'console.log('test')',
 };
 ```
 
@@ -100,9 +87,7 @@ try {
 ```
 
 - 🤺 Upskilling myself, trying to beat the new intern named Devin
-- 🎮 Trying to make computers do what I want
-- 🌱 Learning from my mistakes (there are many)
-- 💡 Down to collaborate if you have snacks
+- 💡 Down to collaborate to anything
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
