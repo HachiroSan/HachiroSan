@@ -36,6 +36,7 @@ const fad: Developer = {
     frontend: ["React", "Next.js"],
     backend: ["Node.js", "Python", "Express"],
     database: ["MySQL", "MongoDB", "PostgreSQL"],
+    baas: ["firebase", "supabase", "appwrite"]
   },
   interests: ["Deep Learning", "Web3", "System Design"],
   debuggingTechnique: 'console.log('test')',
