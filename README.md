@@ -33,7 +33,7 @@ const fad: Developer = {
   title: "Full Stack Developer & Data Engineer",
   location: "Malaysia 🇲🇾",
   stack: {
-    frontend: ["React", "Next.js", "TypeScript"],
+    frontend: ["React", "Next.js"],
     backend: ["Node.js", "Python", "Express"],
     database: ["MySQL", "MongoDB", "PostgreSQL"],
   },
