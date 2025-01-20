@@ -94,14 +94,6 @@ try {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<div align="center">
-  <h2>📫 Let's Debug Together</h2>
-  
-  ```bash
-  $ git commit -m "It works on my machine (and ChatGPT agrees)"
-  ```
-</div>
-
 <!--
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 -->
