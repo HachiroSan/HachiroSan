@@ -46,7 +46,7 @@ const fad: Developer = {
 </div>
 
 <div align="center">
-  <h2>🛠️ Tools I Break Things With</h2>
+  <h2>Tools I Break Things With</h2>
 </div>
 
 <div align="center">
@@ -56,7 +56,7 @@ const fad: Developer = {
 <br>
 
 <details>
-<summary align="center">📊 Proof That I Code Sometimes</summary>
+<summary align="center">Proof That I Code Sometimes</summary>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HachiroSan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HachiroSan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
@@ -64,31 +64,6 @@ const fad: Developer = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HachiroSan&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 </details>
-
-<div align="center">
-  <h2>🎯 Current Status</h2>
-</div>
-
-```javascript
-// My daily routine
-try {
-  const coffee = await fetch('coffee-machine');
-  if (!coffee.ok) throw new Error('Need more coffee ☕');
-  
-  await Promise.all([
-    solveProblems(),
-    askAIForHelp(),
-    pretendIKnowWhatImDoing(),
-    waitForStarstruckBadge()
-  ]);
-  
-} catch (error) {
-  console.log('Error: ChatGPT is at capacity, back to Stack Overflow');
-}
-```
-
-- 🤺 Upskilling myself, trying to beat the new intern named Devin
-- 💡 Down to collaborate to anything
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
